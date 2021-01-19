@@ -1,0 +1,44 @@
+[
+  {
+    "name": "add-items",
+    "path": "/add-items",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/add-items.vue",
+    "chunkName": "pages/add-items",
+    "_name": "_7530724c"
+  },
+  {
+    "name": "register-user",
+    "path": "/register-user",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/register-user.vue",
+    "chunkName": "pages/register-user",
+    "_name": "_eed7c70a"
+  },
+  {
+    "name": "sign-in",
+    "path": "/sign-in",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/sign-in.vue",
+    "chunkName": "pages/sign-in",
+    "_name": "_445c650a"
+  },
+  {
+    "name": "items-item-itemId",
+    "path": "/items/item/:itemId",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/items/item/_itemId/index.vue",
+    "chunkName": "pages/items/item/_itemId/index",
+    "_name": "_b15cf366"
+  },
+  {
+    "name": "items-page-pageNumber",
+    "path": "/items/page/:pageNumber",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/items/page/_pageNumber/index.vue",
+    "chunkName": "pages/items/page/_pageNumber/index",
+    "_name": "_50098173"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_252bf018"
+  }
+]

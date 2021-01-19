@@ -1,0 +1,19 @@
+[{
+  "id": "1",
+  "author": "Tomas",
+  "title": "Ghost",
+  "description": "Mtb bicycle"
+},
+{
+  "id": "2",
+  "author": "Filip",
+  "title": "Bianchi",
+  "description": "Road bicycle"
+
+},
+{
+  "id": "3",
+  "author": "Tomas",
+  "title": "Inspired",
+  "description": "Street bicycle"
+}]

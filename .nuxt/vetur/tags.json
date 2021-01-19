@@ -1,0 +1,38 @@
+{
+  "ItemDetail": {
+    "description": "Auto imported from components/ItemDetail.vue"
+  },
+  "LazyItemDetail": {
+    "description": "Auto imported from components/ItemDetail.vue"
+  },
+  "ItemRow": {
+    "description": "Auto imported from components/ItemRow.vue"
+  },
+  "LazyItemRow": {
+    "description": "Auto imported from components/ItemRow.vue"
+  },
+  "ItemsList": {
+    "description": "Auto imported from components/ItemsList.vue"
+  },
+  "LazyItemsList": {
+    "description": "Auto imported from components/ItemsList.vue"
+  },
+  "Login": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "LazyLogin": {
+    "description": "Auto imported from components/Login.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "NavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  },
+  "LazyNavBar": {
+    "description": "Auto imported from components/NavBar.vue"
+  }
+}
