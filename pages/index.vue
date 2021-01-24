@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h3>Index</h3>
+      <h3>Main page/Index</h3>
       <items-list />
     </div>
   </div>

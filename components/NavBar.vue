@@ -1,13 +1,14 @@
 <template>
   <div>
   <b-navbar toggleable="lg" type="dark" variant="info">
-    <b-navbar-brand href="#">BicycleShare</b-navbar-brand>
+    <b-navbar-brand to="/" href="#">BicycleShare</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav>
-        <b-nav-item to="/items/page/1" :active="tab==='allItems'" @click="tab = 'allItems'">All bicycles</b-nav-item>
+        <!-- <b-nav-item to="/items/page/1" :active="tab==='allItems'" @click="tab = 'allItems'">All bicycles</b-nav-item> -->
+        <b-nav-item to="/items?page=1" :active="tab==='allItems'" @click="tab = 'allItems'">All bicycles</b-nav-item>
         <b-nav-item v-if="getUser" to="/add-item" :active="tab=== 'addItem'" @click="tab = 'addItem'">Add Bicycle</b-nav-item>
       </b-navbar-nav>
 

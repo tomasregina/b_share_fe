@@ -7,6 +7,13 @@
     "_name": "_7530724c"
   },
   {
+    "name": "items",
+    "path": "/items",
+    "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/items/index.vue",
+    "chunkName": "pages/items/index",
+    "_name": "_6eb51bee"
+  },
+  {
     "name": "register-user",
     "path": "/register-user",
     "component": "/Users/tomasregina/Desktop/bicycle_share_frontend/pages/register-user.vue",

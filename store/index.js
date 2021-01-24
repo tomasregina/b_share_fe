@@ -1,8 +1,9 @@
 export const actions = {
  async nuxtServerInit({ commit, app }, { req }) {
    try {
-     const allItems = await this.$axios.$get('/all-items');
-     console.log('allItems', allItems)
+     const allItemsCount = await this.$axios.$get('/all-items');
+     commit('items/setAllItemsCount', allItemsCount.allItemsCount);
+
    }
    catch (e) {
      console.log('e', e);
