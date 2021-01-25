@@ -7,7 +7,6 @@
 export default {
   fetch() {
     try {
-      console.log('$route.query', this.$route.query);
       // const loadedItems = await this.$axios.$post('/load-items', { page: this.$route.query.pageNumber })
     }
     catch (e) {
